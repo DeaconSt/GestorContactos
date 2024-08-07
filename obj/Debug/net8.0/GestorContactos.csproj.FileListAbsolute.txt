@@ -1,0 +1,14 @@
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\bin\Debug\net8.0\GestorContactos.exe
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\bin\Debug\net8.0\GestorContactos.deps.json
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\bin\Debug\net8.0\GestorContactos.runtimeconfig.json
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\bin\Debug\net8.0\GestorContactos.dll
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\bin\Debug\net8.0\GestorContactos.pdb
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.AssemblyInfoInputs.cache
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.AssemblyInfo.cs
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.dll
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\refint\GestorContactos.dll
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.pdb
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\GestorContactos.genruntimeconfig.cache
+C:\Users\ortiz\source\repos\GestorContactos\GestorContactos\obj\Debug\net8.0\ref\GestorContactos.dll

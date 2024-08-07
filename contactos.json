@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 12,
+    "Nombre": "juan",
+    "Telefono": "23",
+    "Email": "ola"
+  },
+  {
+    "Id": 23,
+    "Nombre": "juan",
+    "Telefono": "987",
+    "Email": "orea"
+  },
+  {
+    "Id": 18,
+    "Nombre": "PERRO",
+    "Telefono": "895",
+    "Email": "IA"
+  }
+]
